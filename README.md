@@ -5,10 +5,6 @@
 अ-Devo is an interactive hotel guest management system designed to streamline hotel operations with an intuitive user interface and powerful features. Built using React, Styled Components, Supabase, and JavaScript, it provides a seamless experience for both hotel staff and administrators.
 Here is the Link :- https://adevo.netlify.app to access read the usage Instructions.
 
-<<<<<<< HEAD
-Currently, two official plugins are availabl:
-=======
-
 ## **Table of Contents**
 
 1. [Project Overview](#project-overview)
@@ -19,7 +15,6 @@ Currently, two official plugins are availabl:
 6. [UI Walkthrough](#screenshots-and-ui-walkthrough)
 7. [Database Schema](#database-schema)
 8. [Performance Optimizations](#performance-optimizations)
-   > > > > > > > 06946e81c556d520dbc1a442742841ac39515d0a
 
 ## **Project Overview**
 
