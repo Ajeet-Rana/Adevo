@@ -51,9 +51,6 @@ function Header() {
   const { searchQuery, setSearchQuery, select, setSelect } = useSearch();
   const navigate = useNavigate();
 
-  console.log("Search Query:", searchQuery);
-  console.log("Selected Option:", select);
-
   function handleSetSelect(event) {
     const value = event.target.value;
     setSelect(value);
